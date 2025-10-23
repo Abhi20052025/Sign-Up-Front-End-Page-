@@ -16,7 +16,7 @@ This project is a clean and responsive **Sign Up page** created using **HTML5** 
 
 ## Demo
 
-![Sign Up Page Animation Preview](link-to-your-gif-or-screenshot-if-any)
+![Sign Up Page Animation Preview](link-to-your-gif-http://127.0.0.1:5500/Sign%20Up.html)
 
 ---
 
